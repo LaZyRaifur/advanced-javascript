@@ -9,8 +9,8 @@
 
 
 //const age = 4;
-let name = 'false';
-if(name){
+let name = 12;
+if(name || name ==0){
     console.log("condition is true");
 }
 else{
